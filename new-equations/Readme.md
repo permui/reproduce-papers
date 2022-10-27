@@ -2,5 +2,5 @@ Reproduce the results in the paper *New equations for neutral terms: a sound and
 
 It will contain
 
-* [-] An Agda implementation of the NbE algorithm described in the paper.
+* [x] An Agda implementation of the NbE algorithm described in the paper.
 * [ ] An Agda proof of the soundness and completeness of the algorithm.
